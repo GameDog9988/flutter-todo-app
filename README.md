@@ -1,6 +1,6 @@
-# flutter_todo_app
+# Flutter TODO App
 
-A new Flutter project.
+Following Mitch Koko's tutorial on YouTube: <https://youtu.be/mMgr47QBZWA>
 
 ## Getting Started
 
